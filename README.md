@@ -1,4 +1,4 @@
-[![Python_Temp_Demo](https://github.com/nogibjj/oo46_iProject_1/actions/workflows/actions.yml/badge.svg)][def]
+[![CI](https://github.com/nogibjj/oo46_Mini_Proj_W11/actions/workflows/actions.yml/badge.svg)][def]
 
 # Mini Project Week 11
 
@@ -28,4 +28,4 @@ The current implementation of the mini project is a data pipeline using the Mocr
 
 ![analytics](reports/output3.png)
 
-[def]: https://https://github.com/nogibjj/oo46_iProject_1/actions/workflows/actions.yml
+[def]: https://https://github.com/nogibjj/oo46_Mini_Proj_W11/actions/workflows/actions.yml
