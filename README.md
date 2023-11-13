@@ -26,6 +26,6 @@ The current implementation of the mini project is a data pipeline using the Mocr
 
 ### Job Run Analytics
 
-![analytics](reports/output3.png)
+![analytics](reports/analytics.png)
 
 [def]: https://https://github.com/nogibjj/oo46_Mini_Proj_W11/actions/workflows/actions.yml
