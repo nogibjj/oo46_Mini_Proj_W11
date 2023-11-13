@@ -18,16 +18,23 @@ class PySparkTests(unittest.TestCase):
 
     # Test the load_data function
     def test_load_data(self):
-        
         columns_to_select = [
-            "country",
-            "country_long",
-            "name",
-            "capacity_mw",
-            "primary_fuel",
+            "ORDERNUMBER",
+            "QUANTITYORDERED" "PRICEEACH",
+            "ORDERLINENUMBER",
+            "SALES",
+            "ORDERDATE",
+            "STATUS",
+            "QTR_ID",
+            "MONTH_ID",
+            "YEAR_ID",
+            "PRODUCTLINE",
+            "MSRP",
+            "PRODUCTCODE",
+            "CUSTOMERNAME",
         ]
         # Path to the dataset
-        test_data_path = "dataset/global_power_plant_database.csv"
+        test_data_path = "/FileStore/tables/sales_data_sample.csv"
 
         # Use the function to load the data
         df = lib.load_data(self.spark, test_data_path, columns=columns_to_select)
