@@ -6,21 +6,26 @@ The current implementation of the mini project is a data pipeline using the Mocr
 
 ## Individual Project deliverables:
 
-1. [Jupyter Notebook](https://github.com/nogibjj/oo46_Mini_Proj_W11/blob/main/Data_Pipeline.ipynb) with cells that perform a series of data processing:
+[A Data Pipeline Notebook](https://github.com/nogibjj/oo46_Mini_Proj_W11/blob/main/Data_Pipeline.ipynb) with cells that perform a series of data processing taks:
 
 ### Data Ingestion
+
 ![ingest](reports/code.png)
 
 ### Creation of Analysis Tables
+
 ![tables](reports/code1.png)
 
 ### Data Visualizations
+
 ![sales](reports/output.png)
 
 ### Data Pipeline Summary
+
 ![summary](reports/output1.png)
 
 ### Job Run Analytics
+
 ![analytics](reports/output3.png)
 
 [def]: https://https://github.com/nogibjj/oo46_iProject_1/actions/workflows/actions.yml
