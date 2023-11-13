@@ -4,7 +4,7 @@
 
 The current implementation of the mini project is a data pipeline using the Mocrosoft Azure Databricks platform.
 
-## Individual Project deliverables:
+## Mini Project Deliverables:
 
 [A Data Pipeline Notebook](https://github.com/nogibjj/oo46_Mini_Proj_W11/blob/main/Data_Pipeline.ipynb) with cells that perform a series of data processing taks:
 
